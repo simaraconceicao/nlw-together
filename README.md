@@ -7,7 +7,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Lições aprendidas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
+  <a href="#-licença">Acese aqui!</a>
 </p>
 
 ## ✨ Tecnologias
@@ -39,8 +39,8 @@ Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navega
 
 ## 📄 Acesse aqui
 
-Você pode acessar minha versão do web app em produção[aqui](https://letmeask-b3788.web.app/)
+Você pode acessar minha versão do web app letmeask em produção [aqui.](https://letmeask-b3788.web.app/)
 
 ---
 
-Feito com ♥ by Simara Conceição [Escute o podcast quero ser dev!](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3)
+Feito com ♥ by Simara Conceição. [Escute o podcast quero ser dev!](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3)
